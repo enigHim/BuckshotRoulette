@@ -1,0 +1,1 @@
+export const LAYOUT = {"tileTexels": 64, "felt": {"offset": [12, 32], "dimensions": [168, 192], "top": 9}, "slots": {"columns": [[0.073, 0.35], [0.65, 0.927]], "dealer": [0.068, 0.435], "player": [0.565, 0.932]}, "gun": [1.1, 0.95, 1.9, 3.05], "table": [0, 0.3125, 3, 3.6875], "seatInset": 0.375, "midline": 2};

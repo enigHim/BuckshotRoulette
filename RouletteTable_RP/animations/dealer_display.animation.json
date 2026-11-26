@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.roulette_table.dealer_display":{"loop":true,"bones":{"root":{"rotation":[0,"query.property('roulette_table:turn') * 90",0]}}}}}

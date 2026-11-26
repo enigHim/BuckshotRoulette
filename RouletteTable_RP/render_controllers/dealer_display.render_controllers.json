@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","render_controllers":{"controller.render.roulette_table.dealer_display":{"geometry":"Geometry.default","materials":[{"*":"Material.default"}],"textures":["Texture.default"],"part_visibility":[{"*":"!query.property('roulette_table:hidden')"},{"cuffs":"!query.property('roulette_table:hidden') && query.property('roulette_table:cuffed')"}]}}}
